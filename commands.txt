@@ -1,0 +1,14 @@
+move the repo to the local machine:
+git clone https://breamikel.github.io/portal.git
+
+see changes in repo:
+git status
+
+stage all changed files:
+git add .
+
+makes all stage files part of branch:
+git commit -m "Adds files to branch"
+
+move the changed files to the server:
+git push 
